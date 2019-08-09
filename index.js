@@ -1,9 +1,4 @@
 //Requirements
-// * In terms of user experience, your shopping list app must allow users to:
-
-// * permanently remove items from the list
-
-// Additionally:
 
 // Hint: you may find it helpful to read up on and use the following jQuery methods: .submit(), preventDefault(), toggleClass(), and closest().
 
